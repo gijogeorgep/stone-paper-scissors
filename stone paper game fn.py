@@ -50,6 +50,5 @@ def play_game(rounds):
     else:
         print("It's a tie!")
 
-# Main program
 num_rounds = int(input("Enter the number of rounds you want to play: "))
 play_game(num_rounds)

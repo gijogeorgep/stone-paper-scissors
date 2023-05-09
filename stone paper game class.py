@@ -42,6 +42,6 @@ class StonePaperScissors:
         else:
             print("It's a tie!")
 
-# Create an instance of the game and play
+
 game = StonePaperScissors()
 game.play_game()
